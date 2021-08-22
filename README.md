@@ -2,7 +2,7 @@
 
 Keyboard bullshit is the icing on the cake, proof that not even the keyboard world takes the keyboard world seriously. People get annoyed about it but don’t do anything about it, they give its use in forums the dignity of a response rather than someone saying “what the fuck are you talking about?!” Even Googling “how to deal with keyboard bullshit” renders no exact matches and very related matches.
 
-<img src="https://camo.githubusercontent.com/819859efaa5a0919377d0bc27714c0c871953085/687474703a2f2f692e696d6775722e636f6d2f493137475558392e676966">
+<img src="https://c.tenor.com/r4WxrHVpr6YAAAAd/bauer-linustechtips.gif">
 
 So, I made this lovely little keyboard bullshit generator to randomly pick out phrases, which can help your product get ahead in an industry where spin, buzzwords and vagueness reign supreme.
 
@@ -12,24 +12,20 @@ It will sound so good that geekhack users will just nod enthusiastically even th
 
 ## Few bullshit examples
 
-#### 1) Quickly cloudify equity invested collaboration and idea-sharing
+#### 1) Distinctively Extend Standards Compliant Deskmats
 
-` Means: “Use Google docs”`
+` Means: “Skip color matching and prototyping on $5 rubber mats you retail for $50”`
 
-#### 2) Efficiently build empowered networks
+#### 2) Finally Pursue Tasteful Stock Colors
 
-`Means: “Make a company” or “use the internet” or “sell things”`
+`Means: “Make the 4th N9/L9 set of the year” or “use 3 out of 20 vendor-defined colors and complain about similar sets”`
 
 #### Other Notes
 
 Feel free to be offended!
 
-This is my first Node/Express mini project.
+Pull Requests to extend the list of buzzwords (`buzzwords.yml`) are welcome. Please ensure the file remains alphabetically sorted.
 
 ## References
 
 https://github.com/sameerkumar18/corporate-bs-generator-api
-
-https://sociable.co/business/corporate-bullshit/
-
-https://www.atrixnet.com/
