@@ -6,7 +6,7 @@ Keyboard bullshit is the icing on the cake, proof that not even the keyboard wor
 
 So, I made this lovely little keyboard bullshit generator to randomly pick out phrases, which can help your product get ahead in an industry where spin, buzzwords and vagueness reign supreme.
 
-#### `GET https://corporatebs-generator.sameerkumar.website/`
+#### `GET https://keyboard-bs-generator-api.pngu.workers.dev/`
 
 It will sound so good that geekhack users will just nod enthusiastically even though they have no idea.
 
