@@ -5,10 +5,12 @@ adverbs:
   - distinctively
   - efficiently
   - enthusiastically
+  - finally
   - objectively
   - professionally
   - quickly
   - seamlessly
+  - timely
   - uniquely
 verbs:
   - brand
@@ -17,6 +19,7 @@ verbs:
   - create
   - customize
   - deliver
+  - design
   - develop
   - enable
   - engineer
@@ -25,109 +28,205 @@ verbs:
   - evolve
   - extend
   - fabricate
+  - feature
   - innovate
+  - machine
+  - manufacture
   - maximize
+  - mount
   - optimize
   - plagiarize
   - productize
   - pursue
+  - re-create
+  - re-define
+  - re-engineer
   - reconceptualize
   - redefine
-  - re-engineer
   - reinvent
   - revolutionize
+  - simulate
   - supply
   - transform
   - transition
+  - type
   - unleash
   - visualize
 adjectives:
+  - GMK
+  - RAL matched
+  - TGR
   - accurate
+  - aligned
   - alternative
+  - anodized
+  - anodized
+  - basic
   - best-of-breed
   - bleeding-edge
   - business
+  - classic
+  - clear coated
+  - clicky
   - client-centered
   - client-centric
   - client-focused
+  - cnc machined
+  - colorful
   - competitive
   - cooperative
   - corporate
   - cost effective
+  - crowdfunded
   - customized
   - cutting-edge
+  - delayed
   - distinctive
+  - doubleshot
   - dynamic
   - e-business
   - effective
   - efficient
   - emerging
   - enterprise
+  - enthusiast
   - error-free
   - ethical
   - excellent
   - exceptional
   - extensible
+  - final
   - flexible
   - frictionless
   - fully tested
   - functional
   - future-proof
+  - gasket mounted
+  - gasket mounted
   - high standards in
   - high-quality
   - highly efficient
   - impactful
   - inexpensive
+  - injection-molded
   - innovative
+  - inspired
   - integrated
+  - integrated
+  - interesting
+  - international
   - intuitive
+  - japanese
+  - korean
   - leading-edge
+  - linear
   - magnetic
+  - minimal
+  - mirror polished
+  - modified
   - multifunctional
   - next-generation
+  - on-demand
   - open-source
   - optimal
   - ortholinear
   - out-of-the-box
   - plug-and-play
+  - polished
+  - premium
   - premium
   - professional
+  - pvd coated
   - quality
   - reliable
   - revolutionary
   - robust
+  - rose gold
   - seamless
+  - seamless
+  - smooth
+  - sounding
   - standardized
   - standards compliant
   - state of the art
   - superior
+  - tactile
+  - tasteful
   - technically sound
+  - thick
+  - thocky
+  - timeless
   - top-line
-  - user-centric
   - user friendly
+  - user-centric
   - vertical
+  - vintage
   - visionary
+  - warped
   - web-enabled
+  - west german
   - wireless
   - world-class
   - worldwide
-  - on-demand
 nouns:
+  - 40% kits
+  - 5 side dyesub
+  - 65% keyboard
+  - ISO
+  - LED windows
+  - PVD brass cases
+  - RGB LEDs
+  - WKL TKL
+  - alice
+  - alphas
+  - anodization
+  - base kit
+  - brass blockers
+  - brass weight
   - communities
-  - customer service
+  - custom cables
+  - deskmats
+  - effects
   - experiences
   - expertise
-  - functionalities
+  - flex cuts
+  - foam
+  - gaskets
+  - group buys
+  - groupbuy
+  - hiragana
+  - icons
   - ideas
   - innovation
-  - intellectual capital
-  - manufactured products
+  - inspiration
+  - interest checks
+  - keyboards
+  - keycap profiles
+  - keycap sets
+  - keysets
+  - kits
+  - kitting
+  - layouts
+  - leaf springs
+  - massdrop
   - materials
+  - minivan
+  - modifiers
+  - novelties
+  - novelties
   - partnerships
+  - preorder
   - products
-  - sources
-  - supply chains
-  - technologies
+  - project
+  - renders
+  - spacebars
+  - spacebars
+  - stainless steel weights
+  - stock colors
+  - switches
+  - tactility
   - technology
+  - thocks
+  - typing experience
   - users
-  - value
+  - vendors
