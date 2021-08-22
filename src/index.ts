@@ -19,7 +19,16 @@ async function handleRequest(req: Request): Promise<Response> {
         `${random_intro} ${random_adverb} ${random_verb} ${random_adjective} ${random_noun}`
     );
 
-    return new Response(JSON.stringify({ phrase: phrase }), {
+    const json = {
+        phrase: phrase,
+        intro: random_intro,
+        adverb: random_adverb,
+        verb: random_verb,
+        adjective: random_adjective,
+        noun: random_noun,
+    };
+
+    return new Response(JSON.stringify(json), {
         headers: {
             "content-type": "application/json;charset=UTF-8",
         },
