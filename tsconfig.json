@@ -13,7 +13,7 @@
         "strict": true,
         "preserveConstEnums": true,
         "resolveJsonModule": false,
-        "allowJs": false,
+        "allowJs": true,
         "sourceMap": false,
         "declaration": true,
         "esModuleInterop": true,
@@ -24,6 +24,7 @@
         ],
         "types": [
             "@cloudflare/workers-types",
+            "discord-api-types",
             "yaml/types"
         ]
     },

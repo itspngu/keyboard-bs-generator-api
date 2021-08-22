@@ -1,40 +1,58 @@
-// @ts-expect-error
-import { intros, adverbs, verbs, adjectives, nouns } from "../buzzwords.yml";
+import { parseRequest, handleInteraction } from "./discord";
+import { generateBullshit } from "./bullshit";
 
-function toTitleCase(str: string) {
-    return str.replace(/\w\S*/g, function (txt) {
-        return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();
-    });
-}
-
-async function handleRequest(req: Request): Promise<Response> {
-    const random_intro = intros[Math.floor(Math.random() * intros.length)];
-    const random_adverb = adverbs[Math.floor(Math.random() * adverbs.length)];
-    const random_verb = verbs[Math.floor(Math.random() * verbs.length)];
-    const random_adjective =
-        adjectives[Math.floor(Math.random() * adjectives.length)];
-    const random_noun = nouns[Math.floor(Math.random() * nouns.length)];
-
-    const phrase = toTitleCase(
-        `${random_intro} ${random_adverb} ${random_verb} ${random_adjective} ${random_noun}`
-    );
-
-    const json = {
-        phrase: phrase,
-        intro: random_intro,
-        adverb: random_adverb,
-        verb: random_verb,
-        adjective: random_adjective,
-        noun: random_noun,
-    };
-
-    return new Response(JSON.stringify(json), {
+/**
+ * Generates a JSON Response with proper headers containing a string-ified input object
+ * @param obj
+ * @returns Promise<Response>
+ */
+async function respondWithJson(obj: any): Promise<Response> {
+    return new Response(JSON.stringify(obj), {
         headers: {
-            "content-type": "application/json;charset=UTF-8",
+            "Content-Type": "application/json;charset=UTF-8",
         },
     });
 }
 
+/**
+ * Receives a request and responds to it
+ * @param req
+ * @returns Promise<Response>
+ */
+async function handleRequest(req: Request): Promise<Response> {
+    const url = new URL(req.url);
+
+    if (url.pathname === "/discord") {
+        // Handle invocation of a "slash command"
+        // ref: https://discord.com/developers/docs/interactions/application-commands
+        return parseRequest(req).then(
+            (interaction) => {
+                return handleInteraction(interaction).then(
+                    (interactionResponse) => {
+                        // Respond with "discord-formatted" JSON data
+                        return respondWithJson(interactionResponse);
+                    },
+                    (err) => {
+                        throw err;
+                    }
+                );
+            },
+            (err) => {
+                throw err;
+            }
+        );
+    } else if (url.pathname === "/") {
+        // Handle regular/bare API call
+        return respondWithJson(generateBullshit());
+    } else {
+        return new Response("Not Found", {
+            status: 404,
+            statusText: "Not Found",
+        });
+    }
+}
+
+// Register handleRequest() as event listener
 addEventListener("fetch", async (event) => {
     event.respondWith(handleRequest(event.request));
 });

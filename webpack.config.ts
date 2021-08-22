@@ -1,4 +1,6 @@
 import * as path from "path";
+import DotenvWebpackPlugin from "dotenv-webpack";
+
 import { Configuration } from "webpack";
 
 const mode =
@@ -17,8 +19,14 @@ const config: Configuration = {
         path: path.resolve("worker"),
     },
     resolve: {
-        extensions: [".ts", ".yml", ".yaml"],
+        extensions: [".ts", ".js", ".yml"],
     },
+    plugins: [
+        new DotenvWebpackPlugin({
+            path: path.join(__dirname, ".env"),
+            systemvars: true,
+        }),
+    ],
     module: {
         rules: [
             {
@@ -29,7 +37,7 @@ const config: Configuration = {
                 },
             },
             {
-                test: /\.ya?ml$/,
+                test: /\.yml$/,
                 type: "json", // https://www.npmjs.com/package/yaml-loader#usage
                 use: "yaml-loader",
             },
