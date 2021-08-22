@@ -1,5 +1,4 @@
 intros:
-  - allow us to introduce you to
   - custom mechanical keyboards
   - kb-kustoms regulars
   - keyboard enthusiasts should
@@ -73,25 +72,48 @@ verbs:
   - unleash
   - visualize
 adjectives:
+  - 22mm
+  - 5mm
+  - 6063 AQ aluminum
+  - A-stock
+  - B-stock
+  - CEM3
   - ESD-protected
   - FCC compliant
   - FR4
   - GMK
+  - KURO edition
+  - OG
+  - POM
+  - PVD
+  - QMK compatible
   - RAL matched
+  - RGB
+  - SMD RGB
   - TGR
+  - VIA compatible
   - accurate
+  - actory-designed
+  - affordable
   - aircraft grade
   - aligned
   - alternative
   - anodized
   - anodized
+  - authentic
   - aviation grade
   - basic
+  - bead blasted
+  - beige
   - bespoke
   - best-of-breed
   - bleeding-edge
+  - blessed
+  - blissful
+  - brass
   - budget
   - business
+  - cerakoted
   - classic
   - clear coated
   - clicky
@@ -102,13 +124,16 @@ adjectives:
   - colorful
   - competitive
   - cooperative
+  - copper
   - corporate
   - cost effective
   - crowdfunded
+  - custom moulded
   - customized
   - cutting-edge
   - dampened
   - delayed
+  - dependable
   - distinctive
   - doubleshot
   - dynamic
@@ -119,13 +144,17 @@ adjectives:
   - endgame
   - enterprise
   - enthusiast
+  - entry level
   - error-free
   - ethical
   - excellent
   - exceptional
   - extensible
+  - factory-designed
   - final
   - flexible
+  - flexy
+  - founders edition
   - friction-fit
   - frictionless
   - fully tested
@@ -133,11 +162,16 @@ adjectives:
   - future-proof
   - gasket mounted
   - gasket mounted
+  - hand made
+  - hand polished
   - hand-traced
   - high standards in
   - high-quality
   - highly efficient
+  - hotswap
+  - immaculate
   - impactful
+  - in-stock
   - inexpensive
   - injection-molded
   - innovative
@@ -147,19 +181,27 @@ adjectives:
   - interesting
   - international
   - intuitive
+  - isolated
+  - japan-inspired
   - japanese
+  - kobeco 5052 aluminum
   - korean
+  - korean-style
   - leading-edge
+  - limited
   - linear
   - lubed
   - maglev
   - magnetic
   - massdrop
+  - mechanical
   - military grade
   - minimal
   - minimalistic
   - mirror polished
+  - mirror polished
   - modified
+  - molded
   - multifunctional
   - next-generation
   - on-demand
@@ -167,24 +209,37 @@ adjectives:
   - optimal
   - ortholinear
   - out-of-the-box
+  - per key RGB
   - plug-and-play
   - polished
+  - polycarbonate
+  - powder coated
+  - pre-applied
+  - precise
+  - premium
   - premium
   - premium
   - professional
+  - proprietary
+  - proprietary
   - pvd coated
   - quality
   - reliable
+  - retro-futuristic
   - revolutionary
   - robust
   - rose gold
   - rounded
+  - sand blasted
   - screwless
   - seamless
   - seamless
+  - silky smooth
   - single-piece
   - smooth
+  - soldered
   - sounding
+  - special
   - standardized
   - standards compliant
   - state of the art
@@ -192,16 +247,24 @@ adjectives:
   - tactile
   - tasteful
   - technically sound
+  - tfue-style
   - thick
   - thocky
   - timeless
   - top-line
+  - traditional
+  - transparent
+  - ultra
   - understated
   - unibody
   - unique
+  - unique
+  - unlubed
   - user friendly
   - vertical
   - vibrant
+  - vibrant
+  - vintage
   - vintage
   - visionary
   - warped
@@ -216,20 +279,26 @@ nouns:
   - 65% keyboards
   - FR4 plates
   - ISO kits
+  - JWK recolors
   - LED windows
+  - LEMO connectors
   - PCBs
   - PVD brass cases
   - RGB LEDs
   - WKL TKLs
   - alice layouts
   - alphas
-  - anodization
+  - anodization methods
+  - aviator plugs
   - base kits
   - brass blockers
   - brass weights
   - cashgrabs
+  - cherry switches
+  - clacks
   - communities
   - custom cables
+  - customs
   - daughter boards
   - deskmats
   - effects
@@ -246,12 +315,14 @@ nouns:
   - innovation
   - inspiration
   - interest checks
+  - jane killers
   - keyboards
   - keycap profiles
   - keycap sets
   - keysets
   - kits
   - kitting considerations
+  - kustoms
   - layouts
   - leaf springs
   - materials

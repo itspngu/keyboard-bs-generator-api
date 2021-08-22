@@ -6,21 +6,21 @@ Keyboard bullshit is the icing on the cake, proof that not even the keyboard wor
 
 So, I made this lovely little keyboard bullshit generator to randomly pick out phrases, which can help your product get ahead in an industry where spin, buzzwords and vagueness reign supreme.
 
-#### `GET https://keyboard-bs-generator-api.pngu.workers.dev/`
+## `GET https://keyboard-bs-generator-api.pngu.workers.dev/`
 
-It will sound so good that geekhack users will just nod enthusiastically even though they have no idea.
+It will sound so good that geekhack users will just nod enthusiastically even though they have no idea. To add a `/bullshit` command to your discord server (for reasons), you can use [this invite link](https://discord.com/api/oauth2/authorize?client_id=878990001046700042&scope=applications.commands).
 
 ## Few bullshit examples
 
-#### 1) Distinctively Extend Standards Compliant Deskmats
+### 1) Distinctively Extend Standards Compliant Deskmats
 
-` Means: “Skip color matching and prototyping on $5 rubber mats you retail for $50”`
+`Means: “Skip color matching and prototyping on $5 rubber mats you retail for $50”`
 
-#### 2) Finally Pursue Tasteful Stock Colors
+### 2) Finally Pursue Tasteful Stock Colors
 
 `Means: “Make the 4th N9/L9 set of the year” or “use 3 out of 20 vendor-defined colors and complain about similar sets”`
 
-#### Other Notes
+## Other Notes
 
 Feel free to be offended!
 
