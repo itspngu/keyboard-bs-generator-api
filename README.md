@@ -2,7 +2,7 @@
 
 Keyboard bullshit is the icing on the cake, proof that not even the keyboard world takes the keyboard world seriously. People get annoyed about it but don’t do anything about it, they give its use in forums the dignity of a response rather than someone saying “what the fuck are you talking about?!” Even Googling “how to deal with keyboard bullshit” renders no exact matches and very related matches.
 
-<img src="https://c.tenor.com/r4WxrHVpr6YAAAAd/bauer-linustechtips.gif">
+<img src="https://raw.githubusercontent.com/itspngu/keyboard-bs-generator-api/master/media/bauer-linustechtips.gif">
 
 So, I made this lovely little keyboard bullshit generator to randomly pick out phrases, which can help your product get ahead in an industry where spin, buzzwords and vagueness reign supreme.
 
