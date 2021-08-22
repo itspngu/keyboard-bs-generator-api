@@ -1,0 +1,10 @@
+name = "keyboard-bs-generator-api"
+type = "webpack"
+
+# Serve from workers.dev
+workers_dev = true
+
+# Make sure wrangler doesn't get in the way - it's all kinds of awful.
+[build]
+upload.format = "service-worker"
+command = "echo 'wrangler bad' && exit 0"
