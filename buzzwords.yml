@@ -1,56 +1,64 @@
 actors:
-  - kb-kustoms regulars
+  - big china
+  - blacksimon
   - custom mechanical keyboards
-  - keyboard enthusiasts
-  - keyboard collectors
-  - most geekhack threads
-  - literally all r/mk users
   - deskthority boomers
+  - kb-kustoms regulars
+  - keebtalkers
+  - keyboard collectors
+  - keyboard enthusiasts
+  - keyset "designers"
+  - literally all r/mk users
+  - massdrop employees
+  - mechmarket mods
+  - most geekhack threads
   - our design studio
   - puddsy
-  - blacksimon
   - somebody
   - the community
-  - we, as nerds
   - the hobby
-  - we
-  - you
-  - massdrop
-  - big china
-  - mechmarket
+  - thockers
+  - we, as nerds
 adverbs:
   - collaboratively
   - completely
   - conveniently
   - distinctively
+  - dramatically
   - efficiently
   - enthusiastically
   - finally
   - objectively
   - professionally
   - quickly
+  - regularly
   - seamlessly
+  - shockingly
+  - thockably
+  - thockingly
   - timely
+  - typically
+  - unexpectedly
   - uniquely
+  - usually
 verbs:
   - brand
   - build
   - conceptualize
   - create
-  - cursed
+  - curse
   - customize
   - deliver
   - design
   - develop
-  - enable
+  - disrupt
   - engineer
   - enhance
-  - envisioneer
-  - evolve
   - extend
   - fabricate
   - feature
   - innovate
+  - inspire
   - machine
   - manufacture
   - maximize
@@ -59,29 +67,24 @@ verbs:
   - plagiarize
   - productize
   - pursue
-  - re-create
-  - re-define
-  - re-engineer
   - reconceptualize
+  - recreate
   - redefine
   - reinvent
   - revolutionize
-  - sandwiched
   - simulate
   - supply
+  - thock
   - transform
   - transition
-  - type
   - unleash
   - visualize
 adjectives:
-  - 22mm
-  - 5mm
-  - 6063 AQ aluminum
   - A-stock
   - B-stock
   - CEM3
-  - ESD-protected
+  - CNC-machined
+  - ESD protected
   - FCC compliant
   - FR4
   - GMK
@@ -89,6 +92,7 @@ adjectives:
   - OG
   - POM
   - PVD
+  - PVD coated
   - QMK compatible
   - RAL matched
   - RGB
@@ -96,12 +100,12 @@ adjectives:
   - TGR
   - VIA compatible
   - accurate
-  - actory-designed
   - affordable
   - aircraft grade
   - aligned
   - alternative
-  - anodized
+  - aluminum
+  - anime-inspired
   - anodized
   - authentic
   - aviation grade
@@ -120,10 +124,7 @@ adjectives:
   - classic
   - clear coated
   - clicky
-  - client-centered
   - client-centric
-  - client-focused
-  - cnc machined
   - colorful
   - competitive
   - cooperative
@@ -131,44 +132,45 @@ adjectives:
   - corporate
   - cost effective
   - crowdfunded
-  - custom moulded
+  - cursed
+  - custom-molded
   - customized
   - cutting-edge
   - dampened
   - delayed
   - dependable
+  - disruptive
   - distinctive
   - doubleshot
+  - dyesub
   - dynamic
-  - e-business
   - effective
   - efficient
   - emerging
   - endgame
   - enterprise
   - enthusiast
-  - entry level
-  - error-free
+  - entry-level
+  - ergonomic
   - ethical
   - excellent
   - exceptional
   - extensible
   - factory-designed
+  - factory-lubed
   - final
   - flexible
   - flexy
   - founders edition
   - friction-fit
-  - frictionless
   - fully tested
   - functional
   - future-proof
   - gasket mounted
-  - gasket mounted
-  - hand made
-  - hand polished
+  - hand-polished
   - hand-traced
-  - high standards in
+  - handmade
+  - haptic
   - high-quality
   - highly efficient
   - hotswap
@@ -180,14 +182,11 @@ adjectives:
   - innovative
   - inspired
   - integrated
-  - integrated
   - interesting
   - international
   - intuitive
   - isolated
-  - japan-inspired
   - japanese
-  - kobeco 5052 aluminum
   - korean
   - korean-style
   - leading-edge
@@ -196,23 +195,20 @@ adjectives:
   - lubed
   - maglev
   - magnetic
-  - massdrop
   - mechanical
   - military grade
   - minimal
   - minimalistic
-  - mirror polished
-  - mirror polished
+  - mirror-polished
   - modified
-  - molded
   - multifunctional
+  - next-gen
   - next-generation
   - on-demand
   - open-source
   - optimal
   - ortholinear
   - out-of-the-box
-  - per key RGB
   - plug-and-play
   - polished
   - polycarbonate
@@ -220,13 +216,8 @@ adjectives:
   - pre-applied
   - precise
   - premium
-  - premium
-  - premium
   - professional
   - proprietary
-  - proprietary
-  - pvd coated
-  - quality
   - reliable
   - retro-futuristic
   - revolutionary
@@ -234,10 +225,9 @@ adjectives:
   - rose gold
   - rounded
   - sand blasted
+  - sandwiched
   - screwless
   - seamless
-  - seamless
-  - silky smooth
   - single-piece
   - smooth
   - soldered
@@ -245,29 +235,28 @@ adjectives:
   - special
   - standardized
   - standards compliant
-  - state of the art
+  - state-of-the-art
   - superior
   - tactile
   - tasteful
   - technically sound
   - tfue-style
   - thick
+  - thockable
+  - thocked
   - thocky
   - timeless
-  - top-line
+  - top-of-the-line
   - traditional
   - transparent
   - ultra
   - understated
   - unibody
   - unique
-  - unique
   - unlubed
-  - user friendly
+  - user-friendly
   - vertical
   - vibrant
-  - vibrant
-  - vintage
   - vintage
   - visionary
   - warped
@@ -302,7 +291,7 @@ nouns:
   - communities
   - custom cables
   - customs
-  - daughter boards
+  - daughterboards
   - deskmats
   - effects
   - experiences
@@ -348,6 +337,7 @@ nouns:
   - tactility ratings
   - tape mods
   - technologies
+  - thocks
   - thocks
   - typing experiences
   - users
