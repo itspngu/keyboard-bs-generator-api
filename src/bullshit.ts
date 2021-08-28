@@ -41,17 +41,17 @@ interface Bullshit {
  * @returns Bullshit
  */
 export function generateBullshit(): Bullshit {
-    const actor = actors[Math.floor(Math.random() * actors.length)];
+    const actor = toTitleCase(
+        actors[Math.floor(Math.random() * actors.length)]
+    );
     const action = actions[Math.floor(Math.random() * actions.length)];
     const adverb = adverbs[Math.floor(Math.random() * adverbs.length)];
     const verb = verbs[Math.floor(Math.random() * verbs.length)];
     const adjective = adjectives[Math.floor(Math.random() * adjectives.length)];
-    const noun = nouns[Math.floor(Math.random() * nouns.length)];
+    const noun = toTitleCase(nouns[Math.floor(Math.random() * nouns.length)]);
 
     return {
-        phrase: toTitleCase(
-            `${actor} ${action} ${adverb} ${verb} ${adjective} ${noun}`
-        ),
+        phrase: `${actor} ${action} ${adverb} ${verb} ${adjective} ${noun}`,
     };
 }
 
