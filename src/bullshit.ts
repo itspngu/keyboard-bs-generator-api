@@ -1,5 +1,5 @@
 // @ts-expect-error
-import { intros, adverbs, verbs, adjectives, nouns } from "../buzzwords.yml";
+import { actors, adverbs, verbs, adjectives, nouns } from "../buzzwords.yml";
 
 /**
  * Transforms input string into title-cased output
@@ -13,6 +13,20 @@ function toTitleCase(str: string): string {
 }
 
 /**
+ * Actions are defined here cause they're not very buzzy.
+ */
+const actions = [
+    "will",
+    "won't",
+    "should",
+    "shouldn't",
+    "would",
+    "wouldn't",
+    "could",
+    "couldn't",
+];
+
+/**
  * Bullshit interface
  */
 interface Bullshit {
@@ -24,14 +38,17 @@ interface Bullshit {
  * @returns Bullshit
  */
 export function generateBullshit(): Bullshit {
-    const intro = intros[Math.floor(Math.random() * intros.length)];
+    const actor = actors[Math.floor(Math.random() * actors.length)];
+    const action = actions[Math.floor(Math.random() * actions.length)];
     const adverb = adverbs[Math.floor(Math.random() * adverbs.length)];
     const verb = verbs[Math.floor(Math.random() * verbs.length)];
     const adjective = adjectives[Math.floor(Math.random() * adjectives.length)];
     const noun = nouns[Math.floor(Math.random() * nouns.length)];
 
     return {
-        phrase: toTitleCase(`${intro} ${adverb} ${verb} ${adjective} ${noun}`),
+        phrase: toTitleCase(
+            `${actor} ${action} ${adverb} ${verb} ${adjective} ${noun}`
+        ),
     };
 }
 
