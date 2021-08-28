@@ -2,12 +2,15 @@
 import { actors, adverbs, verbs, adjectives, nouns } from "../buzzwords.yml";
 
 /**
- * Transforms input string into title-cased output
+ * Transforms input string into title-cased output, unless it's all-caps (asdf -> Asdf, ASDF -> ASDF)
  * @param str
  * @returns string
  */
 function toTitleCase(str: string): string {
     return str.replace(/\w\S*/g, function (txt) {
+        if (txt.toUpperCase() === txt) {
+            return txt;
+        }
         return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();
     });
 }
