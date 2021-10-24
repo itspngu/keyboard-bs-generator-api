@@ -1,50 +1,44 @@
 actors:
+  - armchair designers
   - big china
   - blacksimon
+  - chinese whales
+  - content creators
   - custom mechanical keyboards
   - deskthority boomers
+  - discord admins
+  - engineering students
+  - gamers
+  - influencers
   - kb-kustoms regulars
   - keebtalkers
   - keyboard collectors
   - keyboard enthusiasts
   - keyset "designers"
+  - koreaboos
   - literally all r/mk users
+  - massdrop
   - massdrop employees
   - mechmarket mods
   - most geekhack threads
   - our design studio
+  - product designers
   - puddsy
+  - qmk developers
   - somebody
   - the community
   - the hobby
   - thockers
   - we, as nerds
 adverbs:
-  - collaboratively
-  - completely
-  - conveniently
-  - distinctively
-  - dramatically
-  - efficiently
-  - enthusiastically
-  - finally
-  - objectively
-  - professionally
-  - quickly
-  - regularly
-  - seamlessly
-  - shockingly
-  - thockably
-  - thockingly
-  - timely
-  - typically
-  - unexpectedly
-  - uniquely
-  - usually
-verbs:
+  - astonishingly
   - brand
   - build
+  - collaboratively
+  - completely
   - conceptualize
+  - conveniently
+  - copy
   - create
   - curse
   - customize
@@ -52,34 +46,67 @@ verbs:
   - design
   - develop
   - disrupt
+  - distinctively
+  - dramatically
+  - dropship
+  - efficiently
   - engineer
   - enhance
+  - enthusiastically
   - extend
   - fabricate
   - feature
+  - finally
+  - fungibly
+  - generally
+  - holistically
   - innovate
   - inspire
   - machine
   - manufacture
   - maximize
   - mount
+  - objectively
   - optimize
+  - overhaul
+  - perfectly
   - plagiarize
   - productize
+  - professionally
+  - profitably
   - pursue
+  - quickly
   - reconceptualize
   - recreate
   - redefine
+  - redesign
+  - regularly
   - reinvent
+  - revolutionarily
   - revolutionize
+  - rip off
+  - seamlessly
+  - shockingly
   - simulate
+  - steal
   - supply
+  - surprisingly
   - thock
+  - thockably
+  - thockingly
+  - timely
   - transform
   - transition
+  - typically
+  - unexpectedly
+  - uniquely
   - unleash
+  - unsurprisingly
+  - usually
   - visualize
+verbs:
 adjectives:
+  - A-minus stock
   - A-stock
   - B-stock
   - CEM3
@@ -100,14 +127,17 @@ adjectives:
   - TGR
   - VIA compatible
   - accurate
+  - acrylic
   - affordable
   - aircraft grade
+  - alice-like
   - aligned
   - alternative
   - aluminum
   - anime-inspired
   - anodized
   - authentic
+  - automatic
   - aviation grade
   - basic
   - bead blasted
@@ -121,6 +151,7 @@ adjectives:
   - budget
   - business
   - cerakoted
+  - cheap
   - classic
   - clear coated
   - clicky
@@ -146,12 +177,15 @@ adjectives:
   - dynamic
   - effective
   - efficient
+  - electric
+  - electroplated
   - emerging
   - endgame
   - enterprise
   - enthusiast
   - entry-level
   - ergonomic
+  - esd protected
   - ethical
   - excellent
   - exceptional
@@ -159,10 +193,12 @@ adjectives:
   - factory-designed
   - factory-lubed
   - final
+  - fixed
   - flexible
   - flexy
   - founders edition
   - friction-fit
+  - fullsize
   - fully tested
   - functional
   - future-proof
@@ -173,6 +209,7 @@ adjectives:
   - haptic
   - high-quality
   - highly efficient
+  - hot-swapable
   - hotswap
   - immaculate
   - impactful
@@ -218,7 +255,9 @@ adjectives:
   - premium
   - professional
   - proprietary
+  - raw
   - reliable
+  - removable
   - retro-futuristic
   - revolutionary
   - robust
@@ -231,7 +270,9 @@ adjectives:
   - single-piece
   - smooth
   - soldered
+  - solid
   - sounding
+  - south korean
   - special
   - standardized
   - standards compliant
@@ -252,6 +293,7 @@ adjectives:
   - ultra
   - understated
   - unibody
+  - uniform
   - unique
   - unlubed
   - user-friendly
@@ -275,20 +317,27 @@ nouns:
   - LED windows
   - LEMO connectors
   - PCBs
+  - PS/2 cables
   - PVD brass cases
   - RGB LEDs
+  - USB ports
   - WKL TKLs
+  - WKL blockers
   - alice layouts
   - alphas
   - anodization methods
+  - artisan keycaps
+  - artisans
   - aviator plugs
   - base kits
+  - bezels
   - brass blockers
   - brass weights
   - cashgrabs
   - cherry switches
   - clacks
   - communities
+  - cone feet
   - custom cables
   - customs
   - daughterboards
@@ -317,7 +366,10 @@ nouns:
   - kustoms
   - layouts
   - leaf springs
+  - lemo connectors
   - materials
+  - metal keycaps
+  - microcontrollers
   - minivan compatibility
   - modifiers
   - novelties

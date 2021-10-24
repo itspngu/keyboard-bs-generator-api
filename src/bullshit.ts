@@ -18,16 +18,7 @@ function toTitleCase(str: string): string {
 /**
  * Actions are defined here cause they're not very buzzy.
  */
-const actions = [
-    "will",
-    "won't",
-    "should",
-    "shouldn't",
-    "would",
-    "wouldn't",
-    "could",
-    "couldn't",
-];
+const actions = ["will", "should", "could", "can"];
 
 /**
  * Bullshit interface
