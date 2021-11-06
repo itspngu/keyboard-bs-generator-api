@@ -32,6 +32,7 @@ actors:
   - we, as nerds
 adverbs:
   - astonishingly
+  - brilliantly
   - collaboratively
   - completely
   - conveniently
@@ -39,6 +40,7 @@ adverbs:
   - dramatically
   - efficiently
   - enthusiastically
+  - extremely
   - finally
   - fungibly
   - generally
@@ -95,6 +97,7 @@ verbs:
   - redefine
   - redesign
   - reinvent
+  - revitalize
   - revolutionize
   - rip off
   - simulate
@@ -278,6 +281,7 @@ adjectives:
   - standards compliant
   - state-of-the-art
   - superior
+  - suspended
   - tactile
   - tasteful
   - technically sound
