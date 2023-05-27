@@ -31,6 +31,18 @@ actors:
   - the hobby
   - thockers
   - we, as nerds
+actions:
+  - can
+  - can't
+  - could
+  - couldn't
+  - have to
+  - might
+  - must
+  - should
+  - shouldn't
+  - will
+  - won't
 adverbs:
   - astonishingly
   - brilliantly

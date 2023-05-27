@@ -1,5 +1,5 @@
 // @ts-expect-error
-import { actors, adverbs, verbs, adjectives, nouns } from "../buzzwords.yml";
+import { actions, actors, adverbs, verbs, adjectives, nouns } from "../buzzwords.yml";
 
 /**
  * Transforms input string into title-cased output, unless it's all-caps (asdf -> Asdf, ASDF -> ASDF)
@@ -14,11 +14,6 @@ function toTitleCase(str: string): string {
         return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();
     });
 }
-
-/**
- * Actions are defined here cause they're not very buzzy.
- */
-const actions = ["will", "should", "could", "can"];
 
 /**
  * Bullshit interface
