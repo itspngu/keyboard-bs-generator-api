@@ -12,13 +12,17 @@ It will sound so good that geekhack users will just nod enthusiastically even th
 
 ## Few bullshit examples
 
-### 1) Distinctively Extend Standards Compliant Deskmats
+### 1) Product Designers could distinctively extend standards compliant Deskmats
 
 `Means: “Skip color matching and prototyping on $5 rubber mats you retail for $50”`
 
-### 2) Finally Pursue Tasteful Stock Colors
+### 2) Keyset "Designers" will finally pursue tasteful Stock Colors
 
 `Means: “Make the 4th N9/L9 set of the year” or “use 3 out of 20 vendor-defined colors and complain about similar sets”`
+
+### 3) Keebtalkers will fungibly thock tactile Thocks
+
+`I'm not sure what the hell this is supposed to mean either`
 
 ## Other Notes
 
