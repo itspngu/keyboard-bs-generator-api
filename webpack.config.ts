@@ -19,7 +19,7 @@ const config: Configuration = {
         path: path.resolve("worker"),
     },
     resolve: {
-        extensions: [".ts", ".js", ".yml"],
+        extensions: [".ts", ".js", ".yaml"],
     },
     plugins: [
         new DotenvWebpackPlugin({
@@ -37,7 +37,7 @@ const config: Configuration = {
                 },
             },
             {
-                test: /\.yml$/,
+                test: /\.yaml$/,
                 type: "json", // https://www.npmjs.com/package/yaml-loader#usage
                 use: "yaml-loader",
             },

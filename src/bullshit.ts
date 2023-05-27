@@ -1,5 +1,5 @@
 // @ts-expect-error
-import { actions, actors, adverbs, verbs, adjectives, nouns } from "../buzzwords.yml";
+import { actions, actors, adverbs, verbs, adjectives, nouns } from "../buzzwords.yaml";
 
 /**
  * Transforms input string into title-cased output, unless it's all-caps (asdf -> Asdf, ASDF -> ASDF)

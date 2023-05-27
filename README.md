@@ -24,8 +24,8 @@ It will sound so good that geekhack users will just nod enthusiastically even th
 
 Feel free to be offended!
 
-Pull Requests to extend the list of buzzwords (`buzzwords.yml`) are welcome. Please ensure the file remains alphabetically sorted.
+Pull Requests to extend the list of buzzwords ([buzzwords.yaml](`buzzwords.yaml`)) are welcome. Please ensure the file remains alphabetically sorted.
 
 ## References
 
-https://github.com/sameerkumar18/corporate-bs-generator-api
+<https://github.com/sameerkumar18/corporate-bs-generator-api>
